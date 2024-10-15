@@ -1,0 +1,6 @@
+train: C:/Users/jbull/OneDrive - Fayetteville State University/CSC490 SENIOR PROJECT/dataset/images/train
+val: C:/Users/jbull/OneDrive - Fayetteville State University/CSC490 SENIOR PROJECT/dataset/images/val
+
+nc: 1  # Number of classes (lightning)
+names: ['lightning']  # Class name
+
